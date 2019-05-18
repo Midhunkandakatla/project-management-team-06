@@ -88,7 +88,7 @@ Community Hospital Fairfax has decided to bring a drastic change in their hospit
     <td>Midhun Kandakatla</td>
     <td>Client</td>
     <td>External</td>
-    <td>User/td>
+    <td>User</td>
     <td>6608530237</td>
   </tr>
 </table>
